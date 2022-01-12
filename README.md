@@ -3,7 +3,7 @@
 - Projeto de estudo, envolvendo o framework Django!
   -  URLs, Views e Templates
   -  CSS, JS e Bootstrap
-  -  layout
+  -  Layout
   -  Models e Migrations
   -  Inserindo dados do banco no template
   -  Editando dados no banco de dados
